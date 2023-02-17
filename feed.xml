@@ -3,12 +3,137 @@
     <title>tingjuanhuang&#x27;s portfolio</title>
     <link href="https://tingjuanhuang.github.io/myportfolio/feed.xml" rel="self" />
     <link href="https://tingjuanhuang.github.io/myportfolio" />
-    <updated>2023-02-17T17:48:24+08:00</updated>
+    <updated>2023-02-17T17:55:10+08:00</updated>
     <author>
         <name>tingjuanhuang</name>
     </author>
     <id>https://tingjuanhuang.github.io/myportfolio</id>
 
+    <entry>
+        <title>test-project 07</title>
+        <author>
+            <name>tingjuanhuang</name>
+        </author>
+        <link href="https://tingjuanhuang.github.io/myportfolio/test-project-07.html"/>
+        <id>https://tingjuanhuang.github.io/myportfolio/test-project-07.html</id>
+
+        <updated>2023-02-17T17:55:10+08:00</updated>
+            <summary>
+                <![CDATA[
+                    test-project 07test-project 07test-project 07test-project 07test-project 07test-project 07test-project 07
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>test-project 07test-project 07test-project 07test-project 07test-project 07test-project 07test-project 07</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>test-project 06</title>
+        <author>
+            <name>tingjuanhuang</name>
+        </author>
+        <link href="https://tingjuanhuang.github.io/myportfolio/test-project-06.html"/>
+        <id>https://tingjuanhuang.github.io/myportfolio/test-project-06.html</id>
+
+        <updated>2023-02-17T17:55:06+08:00</updated>
+            <summary>
+                <![CDATA[
+                    test-project 06test-project 06test-project 06test-project 06test-project 06test-project 06
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>test-project 06test-project 06test-project 06test-project 06test-project 06test-project 06</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>test-project 05</title>
+        <author>
+            <name>tingjuanhuang</name>
+        </author>
+        <link href="https://tingjuanhuang.github.io/myportfolio/test-project-05.html"/>
+        <id>https://tingjuanhuang.github.io/myportfolio/test-project-05.html</id>
+
+        <updated>2023-02-17T17:55:03+08:00</updated>
+            <summary>
+                <![CDATA[
+                    test-project 05test-project 05test-project 05test-project 05test-project 05test-project 05
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>test-project 05test-project 05test-project 05test-project 05test-project 05test-project 05</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>test-project 04</title>
+        <author>
+            <name>tingjuanhuang</name>
+        </author>
+        <link href="https://tingjuanhuang.github.io/myportfolio/test-project-04.html"/>
+        <id>https://tingjuanhuang.github.io/myportfolio/test-project-04.html</id>
+
+        <updated>2023-02-17T17:54:58+08:00</updated>
+            <summary>
+                <![CDATA[
+                    test-project 04test-project 04test-project 04test-project 04test-project 04test-project 04test-project 04
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>test-project 04test-project 04test-project 04test-project 04test-project 04test-project 04test-project 04</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>test-project 03</title>
+        <author>
+            <name>tingjuanhuang</name>
+        </author>
+        <link href="https://tingjuanhuang.github.io/myportfolio/test-project-03.html"/>
+        <id>https://tingjuanhuang.github.io/myportfolio/test-project-03.html</id>
+
+        <updated>2023-02-17T17:54:54+08:00</updated>
+            <summary>
+                <![CDATA[
+                    test-project 03test-project 03test-project 03test-project 03test-project 03test-project 03test-project 03test-project 03
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>test-project 03test-project 03test-project 03test-project 03test-project 03test-project 03test-project 03test-project 03</p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>test-project 02</title>
+        <author>
+            <name>tingjuanhuang</name>
+        </author>
+        <link href="https://tingjuanhuang.github.io/myportfolio/test-project-02.html"/>
+        <id>https://tingjuanhuang.github.io/myportfolio/test-project-02.html</id>
+
+        <updated>2023-02-17T17:54:48+08:00</updated>
+            <summary>
+                <![CDATA[
+                    test-project 02 test-project 02 test-project 02 test-project 02 test-project 02 test-project 02
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>test-project 02</p>
+<p>test-project 02</p>
+<p>test-project 02</p>
+<p>test-project 02</p>
+<p>test-project 02</p>
+<p>test-project 02</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>test-project 01</title>
         <author>
@@ -16,15 +141,18 @@
         </author>
         <link href="https://tingjuanhuang.github.io/myportfolio/test-project-01.html"/>
         <id>https://tingjuanhuang.github.io/myportfolio/test-project-01.html</id>
+        <media:content url="https://tingjuanhuang.github.io/myportfolio/media/posts/1/mx_6qaqayfq-raphael-koh-md.jpg" medium="image" />
 
-        <updated>2023-02-17T17:48:24+08:00</updated>
+        <updated>2023-02-17T17:54:21+08:00</updated>
             <summary>
                 <![CDATA[
+                        <img src="https://tingjuanhuang.github.io/myportfolio/media/posts/1/mx_6qaqayfq-raphael-koh-md.jpg" alt="" />
                     project info testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttest
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
+                    <p><img src="https://tingjuanhuang.github.io/myportfolio/media/posts/1/mx_6qaqayfq-raphael-koh-md.jpg" class="type:primaryImage" alt="" /></p>
                 <h1>project info</h1>
 <p>testtesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttesttest</p>
             ]]>
