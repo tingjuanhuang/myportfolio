@@ -3,7 +3,7 @@
     <title>tingjuanhuang&#x27;s portfolio</title>
     <link href="https://tingjuanhuang.github.io/myportfolio/feed.xml" rel="self" />
     <link href="https://tingjuanhuang.github.io/myportfolio" />
-    <updated>2023-02-17T18:05:23+08:00</updated>
+    <updated>2023-02-19T19:03:42+08:00</updated>
     <author>
         <name>tingjuanhuang</name>
     </author>
@@ -37,8 +37,10 @@
         </author>
         <link href="https://tingjuanhuang.github.io/myportfolio/test-project-06.html"/>
         <id>https://tingjuanhuang.github.io/myportfolio/test-project-06.html</id>
+            <category term="UI/UX"/>
+            <category term="Branding"/>
 
-        <updated>2023-02-17T17:55:06+08:00</updated>
+        <updated>2023-02-19T19:03:42+08:00</updated>
             <summary>
                 <![CDATA[
                     test-project 06test-project 06test-project 06test-project 06test-project 06test-project 06
