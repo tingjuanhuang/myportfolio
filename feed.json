@@ -5,7 +5,6 @@
     "home_page_url": "https://tingjuanhuang.github.io/myportfolio",
     "feed_url": "https://tingjuanhuang.github.io/myportfolio/feed.json",
     "user_comment": "",
-    "icon": "https://tingjuanhuang.github.io/myportfolio/media/website/web_logo_new-04.png",
     "author": {
         "name": "tingjuanhuang"
     },
@@ -102,15 +101,17 @@
             "url": "https://tingjuanhuang.github.io/myportfolio/test-project-01.html",
             "title": "SWF｜微笑福利基金會",
             "summary": "微笑福利基金會是一個基於慈善的應用程序，它為來自家庭功能失調的孩子捐贈必需品、食物和其他物品，並為有需要的兒童提供緊急救濟。 此外，我們提供課後輔導、學習生活技能和教育知能，使獲得穩定和可持續發展的自立機會，累積內在能量與外在資源，脫離困境，邁向有希望的未來。 Smile Welfare Foundation (SWF) is a charity-based app that donates&hellip;",
-            "content_html": "<figure class=\"post__image post__image--full\"><img loading=\"lazy\"  src=\"https://tingjuanhuang.github.io/myportfolio/media/posts/1/coverPhotos-1.jpg\" alt=\"\" width=\"1920\" height=\"1080\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://tingjuanhuang.github.io/myportfolio/media/posts/1/responsive/coverPhotos-1-xs.jpg 300w ,https://tingjuanhuang.github.io/myportfolio/media/posts/1/responsive/coverPhotos-1-sm.jpg 480w ,https://tingjuanhuang.github.io/myportfolio/media/posts/1/responsive/coverPhotos-1-md.jpg 768w ,https://tingjuanhuang.github.io/myportfolio/media/posts/1/responsive/coverPhotos-1-lg.jpg 1024w\"></figure>\n<p>微笑福利基金會是一個基於慈善的應用程序，它為來自家庭功能失調的孩子捐贈必需品、食物和其他物品，並為有需要的兒童提供緊急救濟。<br>此外，我們提供課後輔導、學習生活技能和教育知能，使獲得穩定和可持續發展的自立機會，累積內在能量與外在資源，脫離困境，邁向有希望的未來。</p>\n<p>Smile Welfare Foundation (SWF) is a charity-based app that donates essential goods, meals, and others for children from dysfunctional families, as well as emergency relief for children in need. In addition, we provide after-school tutoring, learning life skills, and educational program to obtain stable and sustainable opportunities for self-reliance, accumulate internal energy and external resources, and get out of the predicament, and towards a promising future.</p>",
+            "content_html": "<figure class=\"post__image post__image--wide\"><img loading=\"lazy\"  src=\"https://tingjuanhuang.github.io/myportfolio/media/posts/1/coverPhotos-1.jpg\" alt=\"\" width=\"1920\" height=\"1080\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://tingjuanhuang.github.io/myportfolio/media/posts/1/responsive/coverPhotos-1-xs.jpg 300w ,https://tingjuanhuang.github.io/myportfolio/media/posts/1/responsive/coverPhotos-1-sm.jpg 480w ,https://tingjuanhuang.github.io/myportfolio/media/posts/1/responsive/coverPhotos-1-md.jpg 768w ,https://tingjuanhuang.github.io/myportfolio/media/posts/1/responsive/coverPhotos-1-lg.jpg 1024w\"></figure>\n<p>微笑福利基金會是一個基於慈善的應用程序，它為來自家庭功能失調的孩子捐贈必需品、食物和其他物品，並為有需要的兒童提供緊急救濟。<br>此外，我們提供課後輔導、學習生活技能和教育知能，使獲得穩定和可持續發展的自立機會，累積內在能量與外在資源，脫離困境，邁向有希望的未來。</p>\n<p>Smile Welfare Foundation (SWF) is a charity-based app that donates essential goods, meals, and others for children from dysfunctional families, as well as emergency relief for children in need. In addition, we provide after-school tutoring, learning life skills, and educational program to obtain stable and sustainable opportunities for self-reliance, accumulate internal energy and external resources, and get out of the predicament, and towards a promising future.</p>",
             "image": "https://tingjuanhuang.github.io/myportfolio/media/posts/1/mx_6qaqayfq-raphael-koh-md.jpg",
             "author": {
                 "name": "tingjuanhuang"
             },
             "tags": [
+                   "UI/UX",
+                   "Branding"
             ],
             "date_published": "2023-02-17T17:48:24+08:00",
-            "date_modified": "2023-02-21T11:26:04+08:00"
+            "date_modified": "2023-02-21T11:30:57+08:00"
         }
     ]
 }
