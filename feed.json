@@ -10,8 +10,8 @@
     },
     "items": [
         {
-            "id": "https://tingjuanhuang.github.io/myportfolio/test-project-07.html",
-            "url": "https://tingjuanhuang.github.io/myportfolio/test-project-07.html",
+            "id": "https://tingjuanhuang.github.io/myportfolio/test-project-07/",
+            "url": "https://tingjuanhuang.github.io/myportfolio/test-project-07/",
             "title": "test-project 07",
             "summary": "test-project 07test-project 07test-project 07test-project 07test-project 07test-project 07test-project 07",
             "content_html": "<p>test-project 07test-project 07test-project 07test-project 07test-project 07test-project 07test-project 07</p>",
@@ -25,8 +25,8 @@
             "date_modified": "2023-02-17T18:05:23+08:00"
         },
         {
-            "id": "https://tingjuanhuang.github.io/myportfolio/test-project-06.html",
-            "url": "https://tingjuanhuang.github.io/myportfolio/test-project-06.html",
+            "id": "https://tingjuanhuang.github.io/myportfolio/test-project-06/",
+            "url": "https://tingjuanhuang.github.io/myportfolio/test-project-06/",
             "title": "test-project 06",
             "summary": "test-project 06test-project 06test-project 06test-project 06test-project 06test-project 06",
             "content_html": "<p>test-project 06test-project 06test-project 06test-project 06test-project 06test-project 06</p>",
@@ -41,8 +41,8 @@
             "date_modified": "2023-02-19T19:03:42+08:00"
         },
         {
-            "id": "https://tingjuanhuang.github.io/myportfolio/test-project-05.html",
-            "url": "https://tingjuanhuang.github.io/myportfolio/test-project-05.html",
+            "id": "https://tingjuanhuang.github.io/myportfolio/test-project-05/",
+            "url": "https://tingjuanhuang.github.io/myportfolio/test-project-05/",
             "title": "test-project 05",
             "summary": "test-project 05test-project 05test-project 05test-project 05test-project 05test-project 05",
             "content_html": "<p>test-project 05test-project 05test-project 05test-project 05test-project 05test-project 05</p>",
@@ -55,8 +55,8 @@
             "date_modified": "2023-02-17T17:55:03+08:00"
         },
         {
-            "id": "https://tingjuanhuang.github.io/myportfolio/test-project-04.html",
-            "url": "https://tingjuanhuang.github.io/myportfolio/test-project-04.html",
+            "id": "https://tingjuanhuang.github.io/myportfolio/test-project-04/",
+            "url": "https://tingjuanhuang.github.io/myportfolio/test-project-04/",
             "title": "test-project 04",
             "summary": "test-project 04test-project 04test-project 04test-project 04test-project 04test-project 04test-project 04",
             "content_html": "<p>test-project 04test-project 04test-project 04test-project 04test-project 04test-project 04test-project 04</p>",
@@ -69,8 +69,8 @@
             "date_modified": "2023-02-17T17:54:58+08:00"
         },
         {
-            "id": "https://tingjuanhuang.github.io/myportfolio/test-project-03.html",
-            "url": "https://tingjuanhuang.github.io/myportfolio/test-project-03.html",
+            "id": "https://tingjuanhuang.github.io/myportfolio/test-project-03/",
+            "url": "https://tingjuanhuang.github.io/myportfolio/test-project-03/",
             "title": "test-project 03",
             "summary": "test-project 03test-project 03test-project 03test-project 03test-project 03test-project 03test-project 03test-project 03",
             "content_html": "<p>test-project 03test-project 03test-project 03test-project 03test-project 03test-project 03test-project 03test-project 03</p>",
@@ -83,8 +83,8 @@
             "date_modified": "2023-02-17T17:54:54+08:00"
         },
         {
-            "id": "https://tingjuanhuang.github.io/myportfolio/test-project-02.html",
-            "url": "https://tingjuanhuang.github.io/myportfolio/test-project-02.html",
+            "id": "https://tingjuanhuang.github.io/myportfolio/test-project-02/",
+            "url": "https://tingjuanhuang.github.io/myportfolio/test-project-02/",
             "title": "test-project 02",
             "summary": "test-project 02 test-project 02 test-project 02 test-project 02 test-project 02 test-project 02",
             "content_html": "<p>test-project 02</p>\n<p>test-project 02</p>\n<p>test-project 02</p>\n<p>test-project 02</p>\n<p>test-project 02</p>\n<p>test-project 02</p>",
@@ -97,8 +97,8 @@
             "date_modified": "2023-02-17T17:54:48+08:00"
         },
         {
-            "id": "https://tingjuanhuang.github.io/myportfolio/test-project-01.html",
-            "url": "https://tingjuanhuang.github.io/myportfolio/test-project-01.html",
+            "id": "https://tingjuanhuang.github.io/myportfolio/test-project-01/",
+            "url": "https://tingjuanhuang.github.io/myportfolio/test-project-01/",
             "title": "SWF｜微笑福利基金會",
             "summary": "微笑福利基金會是一個基於慈善的應用程序，它為來自家庭功能失調的孩子捐贈必需品、食物和其他物品，並為有需要的兒童提供緊急救濟。 此外，我們提供課後輔導、學習生活技能和教育知能，使獲得穩定和可持續發展的自立機會，累積內在能量與外在資源，脫離困境，邁向有希望的未來。 Smile Welfare Foundation (SWF) is a charity-based app that donates&hellip;",
             "content_html": "<figure class=\"post__image post__image--wide\"><img loading=\"lazy\"  src=\"https://tingjuanhuang.github.io/myportfolio/media/posts/1/coverPhotos-1.jpg\" alt=\"\" width=\"1920\" height=\"1080\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://tingjuanhuang.github.io/myportfolio/media/posts/1/responsive/coverPhotos-1-xs.jpg 300w ,https://tingjuanhuang.github.io/myportfolio/media/posts/1/responsive/coverPhotos-1-sm.jpg 480w ,https://tingjuanhuang.github.io/myportfolio/media/posts/1/responsive/coverPhotos-1-md.jpg 768w ,https://tingjuanhuang.github.io/myportfolio/media/posts/1/responsive/coverPhotos-1-lg.jpg 1024w\"></figure>\n<p>微笑福利基金會是一個基於慈善的應用程序，它為來自家庭功能失調的孩子捐贈必需品、食物和其他物品，並為有需要的兒童提供緊急救濟。<br>此外，我們提供課後輔導、學習生活技能和教育知能，使獲得穩定和可持續發展的自立機會，累積內在能量與外在資源，脫離困境，邁向有希望的未來。</p>\n<p>Smile Welfare Foundation (SWF) is a charity-based app that donates essential goods, meals, and others for children from dysfunctional families, as well as emergency relief for children in need. In addition, we provide after-school tutoring, learning life skills, and educational program to obtain stable and sustainable opportunities for self-reliance, accumulate internal energy and external resources, and get out of the predicament, and towards a promising future.</p>",
