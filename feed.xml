@@ -3,12 +3,32 @@
     <title>tingjuanhuang&#x27;s portfolio</title>
     <link href="https://tingjuanhuang.github.io/myportfolio/feed.xml" rel="self" />
     <link href="https://tingjuanhuang.github.io/myportfolio" />
-    <updated>2023-02-21T11:30:57+08:00</updated>
+    <updated>2023-02-23T19:39:59+08:00</updated>
     <author>
         <name>tingjuanhuang</name>
     </author>
     <id>https://tingjuanhuang.github.io/myportfolio</id>
 
+    <entry>
+        <title>About</title>
+        <author>
+            <name>tingjuanhuang</name>
+        </author>
+        <link href="https://tingjuanhuang.github.io/myportfolio/about/"/>
+        <id>https://tingjuanhuang.github.io/myportfolio/about/</id>
+
+        <updated>2023-02-23T19:39:59+08:00</updated>
+            <summary>
+                <![CDATA[
+                    AboutAboutAboutAboutAboutAboutAbout
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>AboutAboutAboutAboutAboutAboutAbout</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>test-project 07</title>
         <author>
